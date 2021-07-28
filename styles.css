@@ -16,6 +16,32 @@ body {
   background-color: white;
 }
 
+.content-container {
+  margin: 20px 30px;
+}
+
+.top-container {
+  text-align: center;
+}
+
 .logo {
-  width: 30%;
+  width: 40%;
+}
+
+.top-container > img {
+  margin-bottom: 25px;
+}
+
+.top-container > p {
+  font-size: 10px;
+  margin: 10px 0;
+}
+
+input[type="password"], input[type="email"] {
+  border: 1px solid lightgrey;
+  border-radius: 3px;
+  margin-bottom: 10px;
+  font-size: 8px;
+  width: 100%;
+  padding: 5px;
 }
