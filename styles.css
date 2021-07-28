@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+}
+
+body {
+  display: flex;
+  background-color: #f1f1f1;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  width: 220px;
+  height: 400px;
+  background-color: white;
+}
+
+.logo {
+  width: 30%;
+}
